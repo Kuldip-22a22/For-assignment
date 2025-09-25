@@ -1,0 +1,4 @@
+x1=input("Enter your first name: ")
+x2=input("Enter your last name: ")
+
+print("Hello, ",x1," ",x2,"! welcome to the python program.",sep="")
